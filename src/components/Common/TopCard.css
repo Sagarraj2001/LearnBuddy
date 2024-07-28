@@ -1,0 +1,7 @@
+.common h1{
+    text-decoration: underline;
+    font-weight: 500;
+}
+.common img{
+    opacity: 0.4;
+}

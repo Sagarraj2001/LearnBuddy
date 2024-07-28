@@ -1,0 +1,15 @@
+#sidecard{
+    border: none;
+    background-color: whitesmoke;
+    
+}
+#sidecard:hover{
+    background-color: orange;
+    color: white;
+}
+#sidecard img{
+    height:100;
+    object-fit: cover;
+    max-width: 100%;
+
+}
